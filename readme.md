@@ -5,7 +5,7 @@ Hotel Booking is all generated with __QuickAdmin__ except for some custom code f
 
 ![Hotel_Booking screenshot](https://laraveldaily.com/wp-content/uploads/2018/11/hotel-booking-demo.png)
 
-## How to use
+## How to use Project
 
 - Clone the repository with __git clone__
 - Copy __.env.example__ file to __.env__ and edit database credentials there
