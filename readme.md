@@ -16,7 +16,7 @@ Hotel Booking is all generated with __QuickAdmin__ except for some custom code f
 
 ## License
 
-Basically, feel free to use and re-use any way you want.
+Basically, feel free to use and re-use any way you want to.
 
 ---
 
